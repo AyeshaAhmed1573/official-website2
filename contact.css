@@ -1,0 +1,122 @@
+#fluid{
+    background-image: url(back.jpg);
+    height: 40px;
+    color: red;
+    
+}
+#info{
+    background-color: black;
+    
+}
+#p5{
+    margin-left: 40%;
+
+}
+#img2{
+    height: 80px;
+  }
+  .navbar{
+    
+    color: white;
+  background-color: #000;
+   
+  
+  }
+  li:hover{
+    text-decoration: underline mediumaquamarine;
+    border-radius: 5px;
+   color: mediumaquamarine;
+  }
+  li{
+    margin-left: 20px;
+    font-family: sans-serif;
+  
+  }
+  a{
+    color: orange;
+  }
+  #a1{
+  
+    color: white;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 15px;
+    border: solid #4f585e;
+  
+  }
+  a{
+    color: white;
+    font-size: 15px;
+  }
+  #navbarDropdownMenuLink{
+    color: white;
+  }
+  #a2{
+    font-size: 15px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+  }
+  h3{
+    color: red;
+    font-family: 'ariel';
+  }
+  
+  
+  #p3{
+    color: yellow;
+     font-size: 50px;
+     
+  }
+  #p4{
+      font-size: 20px;
+      font-family: serif;
+      color: teal;
+      margin-right: 20%;
+      margin-left: 20%;
+   }
+  body{
+      background-image: url(gradient.jpg);
+     
+  }
+  
+  #p5{
+      font-size: 15px;
+  
+      font-weight: bold;
+      margin-left: 20%;
+  }
+  #fluid{
+      background-image: url(back.jpg)
+      
+  }
+  
+  #p7{
+  font-size: 50px;
+  margin-right: 80px;
+  
+  
+  
+  }
+  
+  
+  
+  #font1{
+      font-weight: bold;
+  
+  }
+  #p8{
+      color: white;
+      font-size: 20px;
+      margin-right: 15%;
+      margin-left: 15%;
+  }
+  #slide{
+    background-color: black;
+    height: px;
+  }
+  i{
+  color: teal;
+ 
+  }
+ 
